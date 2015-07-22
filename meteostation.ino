@@ -1,3 +1,4 @@
+//Old meteostation project
 #include <LiquidCrystal.h>
 #include <Wire.h>
 #include <BMP085.h>
